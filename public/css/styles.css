@@ -1,15 +1,6 @@
-h1 {
-  color: red ;
+body {
+  background-color: #eceff1;
 }
-
-h2 {
-  color: blue;
-}
-
-h3 {
-  color: yellow;
-}
-
-h4 {
-  color: green;
+#formulario-pegunta {
+  margin-top: 5vh;
 }
